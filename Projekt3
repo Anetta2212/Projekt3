@@ -1,0 +1,65 @@
+<html>
+    <title>Найпопулярніші машини фірми "Dodge"</title>
+    <body>
+    <header style="background-color:black">
+        <a href="https://ru.wikipedia.org/wiki/Dodge" style="color:#8B0000;font-family:sans-serif;">Dodge</a>
+        <a href="#info;"
+        style="color:#8B0000;font-family:sans-serif;">Інформація</a>
+        <a href="#character;"
+        style="color:#8B0000;font-family:sans-serif;">Характеристика</a>
+        <a href="#galery;"
+        style="color:#8B0000;font-family:sans-serif;">Галерея</a>
+    </header>
+    <main style="background-color:#cc0000">
+        <h1 style="font-size:50px;background-color:#cc0000; text-align:center;font-family:sans-serif">Найпопулярніші машини фірми "Dodge"<br/>
+        <img src="https://i.pinimg.com/564x/eb/4e/ab/eb4eab350c2cfa6f6b21023f3ccd14af.jpg" height="200px; text-align:center"/></h1>
+        <h2 id="info">Інформація про фірму Dodge</h2>
+        <p style="font-size:20px;font-family:sans-serif;">Dodge - марка автомобілів, вироблених американською компанією Chrysler. Під маркою Dodge випускаються легкові автомобілі, пікапи, позашляховики та комерційні автомобілі. Компанія була заснована 1900 року братами Додж для випуску автомобільних комплектуючих. 1914 року почався випуск власних автомобілів. Компанія Dodge у 1928 році була продана корпорації Chrysler, з 1997 до 2008 року входила до складу альянсу DaimlerChrysler, а зараз є частиною компанії Fiat-Chrysler LLC. На новому логотипі Dodge зображено напис «Dodge» з двома червоними смугами; старий логотип (голова толсторога) тепер використовується на автомобілях марки Ram.</p>
+        <h2 id="character">Характеристика</h2>
+            <table style="border:4px solid #FF0000;style=font-size:20px;border-collapse:collapse;">
+                <tr style="color:white;">
+                    <td style="border:2px solid #FF0000;font-family:sans-serif;">Найпопулярніші марки</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Рік випуску</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Рік завершення виробництва</td>
+                </tr>
+                <tr>
+                    <td style="border:2px solid #FF0000;;font-family:sans-serif">Dodge Charger</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">у 1966 році</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Випускається нове покоління</td>
+                </tr>
+                <tr>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Dodge Challenger</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">у 1970 році</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Зараз виготовляється третє покоління автомобіля</td>
+                </tr>
+                <tr>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Dodge Durango</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">у 1998 році</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Зараз виготовляється третє покоління автомобіля</td>
+                </tr>
+                <tr>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Dodge Viper</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">у 1992 році</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">у 2017 році</td>
+                </tr>
+                <tr>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Dodge Ram</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">у 1981 році</td>
+                    <td style="border:2px solid #FF0000;font-family:sans-serif">Все ще виготовляється, але під брендом Ram</td>
+                </tr>
+            </table>
+            <h2  id="galery">Галерея</h2>
+                <img src="https://i.pinimg.com/564x/50/d1/30/50d130254eae66ce30f2c132c6fd6abe.jpg" width="160px" height="150px"/>
+                <img src="https://i.pinimg.com/564x/2a/d6/2a/2ad62af86a4edb6dac08a63ddc5bacdc.jpg" width="160px" height="150px"/>
+                <img src="https://i.pinimg.com/564x/87/81/30/87813021793e28c20e767959073ead90.jpg" width="160px" height="170px"/>
+                <img src="https://i.pinimg.com/564x/19/71/39/19713928709fa7b3cce7cda4f8290e3e.jpg" width="160px" height="150px"/>
+                <img src="https://i.pinimg.com/564x/b8/5d/57/b85d57711a6489ac63efa60432d7dd44.jpg" width="160px" height="150px"/>
+                
+    </main>
+        <footer>
+        <header style="background-color:black">
+            <p style="color:#8B0000;font-family:sans-serif">Більше інформації про покупку авто або ж інформацю про різні моделі зможете знайти за посиланням <a href="https://www.dodge.com/" style="color:#ff0000">"Dodge"</a> або телефонуйте за номером +380965484337.</p>
+        </header>
+        </footer>
+    </body>
+</html>
